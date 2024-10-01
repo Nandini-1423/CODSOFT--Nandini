@@ -2,7 +2,7 @@
 
   
 
-# This repository contains the implementation of two projects completed as part of an assignment by CodSoft Company.  
+# This repository contains the implementation of projects completed as part of an assignment by CodSoft Company.  
 
 ## Projects Overview  
 
