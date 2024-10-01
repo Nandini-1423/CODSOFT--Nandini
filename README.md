@@ -40,7 +40,11 @@ In this project, I developed a model to detect fraudulent credit card transactio
 **Technologies Used:**  
 - Python  
 - Isolation Forest Algorithm (from Scikit-learn)  
-- Data Science Libraries (e.g., Pandas, NumPy)  
+- Data Science Libraries (e.g., Pandas, NumPy)
+ ## Task 3 Dataset link
+  
+  -[Download here](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+
 
 **Key Steps Involved:**  
 - Data Collection: Acquiring a dataset of credit card transactions.  
